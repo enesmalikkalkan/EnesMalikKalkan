@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Malik</h1>
-<h3 align="center">I'm a Jr. Software Developer passionate about learning, clean code, and building scalable applications. I enjoy exploring new technologies and contributing to meaningful projects.</h3>
+<h3 align="center">I am Enes Malik, and I develop web applications using modern technologies to establish a place in the evolving world. Through the projects I have built, I have improved my skills in Spring Boot, React, responsive design, API development, and the SOLID and OOP principles. By applying what I have learned, I have created sustainable and scalable architectures. I developed these projects in short sprints using the Agile methodology. In the future, I aim to enhance modern web applications by integrating artificial intelligence and cloud-based solutions, making them smarter and more scalable.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesmalikkalkan&label=Profile%20views&color=0e75b6&style=flat" alt="enesmalikkalkan" /> </p>
 
